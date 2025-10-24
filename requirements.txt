@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-requests
-gTTS
-playsound
+nest-asyncio
 edge-tts
+rapidfuzz
