@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+requests
+gTTS
+playsound
+edge-tts

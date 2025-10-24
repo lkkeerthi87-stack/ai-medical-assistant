@@ -1,0 +1,518 @@
+Symptom,Possible Diseases,Treatment
+Fever,"Malaria, Dengue, Typhoid",Antimalarial drugs; rest and hydration.
+Persistent cough,"Tuberculosis, Bronchitis, COVID-19",Antitubercular drugs under medical supervision.
+Joint pain,"Chikungunya, Arthritis, Dengue","Fluids, rest, paracetamol for fever."
+Skin rash,"Chickenpox, Measles, Allergic dermatitis","Calamine lotion, rest, antiviral if severe."
+Headache,"Migraine, Sinusitis, Hypertension","Painkillers, rest, avoid triggers."
+Abdominal pain,"Gastritis, Appendicitis, Food poisoning",Consult a doctor for proper treatment.
+Diarrhea,"Gastroenteritis, Cholera, Food poisoning",Consult a doctor for proper treatment.
+Vomiting,"Food poisoning, Viral infection, Gastritis",Consult a doctor for proper treatment.
+Fatigue,"Anemia, Hypothyroidism, Chronic fatigue syndrome",Consult a doctor for proper treatment.
+Difficulty breathing,"Asthma, Pneumonia, COPD",Consult a doctor for proper treatment.
+Sore throat,"Pharyngitis, Tonsillitis, Common cold",Consult a doctor for proper treatment.
+Nasal congestion,"Common cold, Sinusitis, Allergic rhinitis",Antihistamines and avoid allergens.
+Chest pain,"Angina, Gastroesophageal reflux, Pneumonia",Consult a doctor for proper treatment.
+Dizziness,"Vertigo, Anemia, Low blood pressure",Consult a doctor for proper treatment.
+Swollen lymph nodes,"Tuberculosis, Lymphoma, Viral infection",Antitubercular drugs under medical supervision.
+Jaundice,"Hepatitis, Liver cirrhosis, Malaria",Antimalarial drugs; rest and hydration.
+Blood in stool,"Hemorrhoids, Colorectal cancer, Dysentery",Consult a doctor for proper treatment.
+Burning urination,"Urinary tract infection, Kidney stones, Prostatitis",Consult a doctor for proper treatment.
+Back pain,"Muscle strain, Herniated disc, Kidney stones",Consult a doctor for proper treatment.
+Ear pain,"Ear infection, Swimmer's ear, Sinusitis","Steam inhalation, nasal spray, antibiotics if needed."
+Blurred vision,"Cataract, Glaucoma, Diabetic retinopathy",Consult a doctor for proper treatment.
+Loss of appetite,"Tuberculosis, Depression, Hepatitis",Antitubercular drugs under medical supervision.
+Night sweats,"Tuberculosis, Lymphoma, Menopause",Antitubercular drugs under medical supervision.
+Nausea,"Motion sickness, Gastritis, Pregnancy",Consult a doctor for proper treatment.
+Muscle weakness,"Vitamin D deficiency, Myasthenia gravis, Thyroid disorders",Consult a doctor for proper treatment.
+Frequent urination,"Diabetes, Urinary tract infection, Prostate enlargement",Consult a doctor for proper treatment.
+Constipation,"Irritable bowel syndrome, Hypothyroidism, Dehydration",Consult a doctor for proper treatment.
+Blood in urine,"Urinary tract infection, Kidney stones, Bladder cancer",Consult a doctor for proper treatment.
+Wheezing,"Asthma, Bronchitis, COPD","Cough syrup, steam inhalation, rest."
+Stiff neck,"Meningitis, Cervical spondylosis, Muscle strain",Consult a doctor for proper treatment.
+Ankle swelling,"Heart failure, Kidney disease, Venous insufficiency",Consult a doctor for proper treatment.
+Weight loss,"Tuberculosis, Cancer, Hyperthyroidism",Antitubercular drugs under medical supervision.
+Excessive thirst,"Diabetes, Dehydration, Kidney disease",Consult a doctor for proper treatment.
+Increased hunger,"Diabetes, Hyperthyroidism, Parasitic infection",Consult a doctor for proper treatment.
+Dry cough,"Bronchitis, COVID-19, Asthma","Cough syrup, steam inhalation, rest."
+Productive cough,"Pneumonia, Bronchitis, Tuberculosis",Antitubercular drugs under medical supervision.
+Itchy skin,"Scabies, Eczema, Allergies",Consult a doctor for proper treatment.
+Red eyes,"Conjunctivitis, Allergies, Glaucoma",Consult a doctor for proper treatment.
+Mouth ulcers,"Vitamin deficiency, Viral infection, Stress",Consult a doctor for proper treatment.
+Hair loss,"Alopecia, Thyroid disorders, Nutritional deficiency",Consult a doctor for proper treatment.
+Palpitations,"Anxiety, Arrhythmia, Anemia",Consult a doctor for proper treatment.
+Cold hands and feet,"Raynaud's disease, Hypothyroidism, Anemia",Consult a doctor for proper treatment.
+Memory problems,"Dementia, Vitamin B12 deficiency, Depression",Consult a doctor for proper treatment.
+Tremors,"Parkinson's disease, Essential tremor, Hyperthyroidism",Consult a doctor for proper treatment.
+Excessive sweating,"Hyperthyroidism, Tuberculosis, Menopause",Antitubercular drugs under medical supervision.
+Hoarseness,"Laryngitis, Vocal cord nodules, Thyroid cancer",Consult a doctor for proper treatment.
+Dry skin,"Eczema, Psoriasis, Hypothyroidism",Consult a doctor for proper treatment.
+Insomnia,"Anxiety, Depression, Sleep apnea",Consult a doctor for proper treatment.
+Excessive sleepiness,"Sleep apnea, Depression, Hypothyroidism",Consult a doctor for proper treatment.
+Numbness in extremities,"Peripheral neuropathy, Vitamin B12 deficiency, Diabetes",Consult a doctor for proper treatment.
+Painful urination,"Urinary tract infection, Kidney stones, Sexually transmitted infection",Consult a doctor for proper treatment.
+Swollen joints,"Rheumatoid arthritis, Gout, Reactive arthritis",Pain relief meds and physiotherapy.
+Muscle cramps,"Dehydration, Electrolyte imbalance, Vitamin D deficiency",Consult a doctor for proper treatment.
+Facial pain,"Sinusitis, Trigeminal neuralgia, Dental abscess","Steam inhalation, nasal spray, antibiotics if needed."
+Eye pain,"Glaucoma, Corneal abrasion, Iritis",Consult a doctor for proper treatment.
+Blood pressure fluctuations,"Hypertension, Pheochromocytoma, Anxiety",BP medication and lifestyle changes.
+Irregular heartbeat,"Arrhythmia, Anxiety, Electrolyte imbalance",Consult a doctor for proper treatment.
+Excessive bruising,"Platelet disorders, Vitamin K deficiency, Leukemia",Consult a doctor for proper treatment.
+Toothache,"Dental cavity, Abscess, Gum disease",Consult a doctor for proper treatment.
+Jaw pain,"Temporomandibular joint disorder, Dental abscess, Trigeminal neuralgia",Consult a doctor for proper treatment.
+Halitosis,"Gum disease, Dental infection, Gastroesophageal reflux",Consult a doctor for proper treatment.
+Bloody sputum,"Tuberculosis, Lung cancer, Pneumonia",Antitubercular drugs under medical supervision.
+Lower back pain,"Sciatica, Kidney infection, Herniated disc",Consult a doctor for proper treatment.
+Knee pain,"Osteoarthritis, Ligament injury, Gout",Pain relief meds and physiotherapy.
+Shoulder pain,"Frozen shoulder, Rotator cuff injury, Bursitis",Consult a doctor for proper treatment.
+Abdominal bloating,"Irritable bowel syndrome, Gastritis, Lactose intolerance",Consult a doctor for proper treatment.
+Anal bleeding,"Hemorrhoids, Anal fissure, Colorectal cancer",Consult a doctor for proper treatment.
+Decreased urine output,"Kidney disease, Dehydration, Urinary obstruction",Consult a doctor for proper treatment.
+Loss of consciousness,"Syncope, Epilepsy, Hypoglycemia",Consult a doctor for proper treatment.
+Confusion,"Delirium, Dementia, Encephalitis",Consult a doctor for proper treatment.
+Slurred speech,"Stroke, Transient ischemic attack, Multiple sclerosis",Consult a doctor for proper treatment.
+Facial drooping,"Stroke, Bell's palsy, Transient ischemic attack",Consult a doctor for proper treatment.
+Limb weakness,"Stroke, Multiple sclerosis, Guillain-Barré syndrome",Consult a doctor for proper treatment.
+Double vision,"Stroke, Brain tumor, Multiple sclerosis",Consult a doctor for proper treatment.
+Seizures,"Epilepsy, Brain tumor, Meningitis",Consult a doctor for proper treatment.
+Ringing in ears,"Tinnitus, Meniere's disease, Ear infection",Consult a doctor for proper treatment.
+Hearing loss,"Age-related hearing loss, Ear infection, Acoustic neuroma",Consult a doctor for proper treatment.
+Balance problems,"Vertigo, Inner ear infection, Multiple sclerosis",Consult a doctor for proper treatment.
+Frequent falls,"Parkinson's disease, Orthostatic hypotension, Multiple sclerosis",Consult a doctor for proper treatment.
+Excessive urination at night,"Diabetes, Prostate enlargement, Heart failure",Consult a doctor for proper treatment.
+Erectile dysfunction,"Diabetes, Hypertension, Depression",BP medication and lifestyle changes.
+Painful intercourse,"Vaginitis, Endometriosis, Pelvic inflammatory disease",Consult a doctor for proper treatment.
+Vaginal discharge,"Vaginitis, Sexually transmitted infection, Cervical cancer",Consult a doctor for proper treatment.
+Abnormal vaginal bleeding,"Uterine fibroids, Endometriosis, Cervical cancer",Consult a doctor for proper treatment.
+Breast lump,"Fibrocystic disease, Breast cancer, Mastitis",Consult a doctor for proper treatment.
+Menstrual pain,"Endometriosis, Adenomyosis, Pelvic inflammatory disease",Consult a doctor for proper treatment.
+Missed periods,"Pregnancy, Polycystic ovary syndrome, Stress",Consult a doctor for proper treatment.
+Testicular pain,"Epididymitis, Testicular torsion, Orchitis",Consult a doctor for proper treatment.
+Scrotal swelling,"Hydrocele, Varicocele, Testicular cancer",Consult a doctor for proper treatment.
+Painful ejaculation,"Prostatitis, Seminal vesiculitis, Urethritis",Consult a doctor for proper treatment.
+Premature ejaculation,"Anxiety, Thyroid disorders, Prostatitis",Consult a doctor for proper treatment.
+Rectal pain,"Hemorrhoids, Anal fissure, Proctitis",Consult a doctor for proper treatment.
+Inability to urinate,"Urinary retention, Prostate enlargement, Urethral stricture",Consult a doctor for proper treatment.
+Yellow skin,"Jaundice, Hepatitis, Gallstones",Consult a doctor for proper treatment.
+Pale skin,"Anemia, Shock, Vitamin deficiency",Consult a doctor for proper treatment.
+Cyanosis,"Heart failure, Pulmonary embolism, COPD",Consult a doctor for proper treatment.
+Swollen face,"Kidney disease, Allergic reaction, Cushing's syndrome",Antihistamines and avoid allergens.
+Puffy eyes,"Allergies, Kidney disease, Hypothyroidism",Consult a doctor for proper treatment.
+Brittle nails,"Iron deficiency, Thyroid disorders, Fungal infection",Consult a doctor for proper treatment.
+Nail discoloration,"Fungal infection, Psoriasis, Melanoma",Consult a doctor for proper treatment.
+Sunken eyes,"Dehydration, Malnutrition, Aging",Consult a doctor for proper treatment.
+Dark circles under eyes,"Allergies, Sleep deprivation, Anemia",Consult a doctor for proper treatment.
+Swollen gums,"Gingivitis, Vitamin C deficiency, Leukemia",Consult a doctor for proper treatment.
+Bleeding gums,"Gingivitis, Vitamin K deficiency, Leukemia",Consult a doctor for proper treatment.
+Difficulty swallowing,"Esophageal stricture, Throat cancer, Achalasia",Consult a doctor for proper treatment.
+Hoarse voice,"Laryngitis, Vocal cord nodules, Thyroid cancer",Consult a doctor for proper treatment.
+Lump in throat,"Globus sensation, Thyroid nodule, Esophageal cancer",Consult a doctor for proper treatment.
+Neck swelling,"Goiter, Lymphadenopathy, Thyroid cancer",Consult a doctor for proper treatment.
+Hiccups,"Gastroesophageal reflux, Hiatal hernia, Pneumonia",Consult a doctor for proper treatment.
+Excessive belching,"Gastroesophageal reflux, Gastritis, Functional dyspepsia",Consult a doctor for proper treatment.
+Excessive flatulence,"Irritable bowel syndrome, Lactose intolerance, Malabsorption",Consult a doctor for proper treatment.
+Rectal itching,"Hemorrhoids, Pinworms, Fungal infection",Consult a doctor for proper treatment.
+Hair thinning,"Iron deficiency, Hypothyroidism, Telogen effluvium",Consult a doctor for proper treatment.
+Facial hair in women,"Polycystic ovary syndrome, Cushing's syndrome, Adrenal disorders",Consult a doctor for proper treatment.
+Excessive sweating,"Hyperthyroidism, Anxiety, Infection",Consult a doctor for proper treatment.
+Night blindness,"Vitamin A deficiency, Retinitis pigmentosa, Cataracts",Consult a doctor for proper treatment.
+Sensitivity to light,"Migraine, Iritis, Corneal abrasion","Painkillers, rest, avoid triggers."
+Dry eyes,"Sjögren's syndrome, Aging, Computer vision syndrome",Consult a doctor for proper treatment.
+Watery eyes,"Allergies, Blocked tear duct, Conjunctivitis",Consult a doctor for proper treatment.
+Bulging eyes,"Graves' disease, Orbital cellulitis, Orbital tumor",Consult a doctor for proper treatment.
+Yellow eyes,"Jaundice, Hepatitis, Alcoholic liver disease",Consult a doctor for proper treatment.
+Eye discharge,"Conjunctivitis, Blepharitis, Dacryocystitis",Consult a doctor for proper treatment.
+Dry mouth,"Sjögren's syndrome, Dehydration, Medication side effect",Consult a doctor for proper treatment.
+Excessive salivation,"Dental infection, Parkinson's disease, Gastroesophageal reflux",Consult a doctor for proper treatment.
+Tongue pain,"Glossitis, Oral candidiasis, Vitamin deficiency",Consult a doctor for proper treatment.
+White tongue,"Oral thrush, Leukoplakia, Dehydration",Consult a doctor for proper treatment.
+Red tongue,"Vitamin deficiency, Scarlet fever, Kawasaki disease",Consult a doctor for proper treatment.
+Black hairy tongue,"Poor oral hygiene, Antibiotics, Tobacco use",Consult a doctor for proper treatment.
+Cracked lips,"Dehydration, Vitamin deficiency, Angular cheilitis",Consult a doctor for proper treatment.
+Change in taste,"Zinc deficiency, Medication side effect, COVID-19","Isolation, fluids, paracetamol, and rest."
+Loss of taste,"COVID-19, Zinc deficiency, Bell's palsy","Isolation, fluids, paracetamol, and rest."
+Nose bleeding,"Hypertension, Dry air, Blood disorders",BP medication and lifestyle changes.
+Runny nose,"Common cold, Allergies, Sinusitis","Steam inhalation, nasal spray, antibiotics if needed."
+Stuffy nose,"Common cold, Sinusitis, Allergies","Steam inhalation, nasal spray, antibiotics if needed."
+Postnasal drip,"Sinusitis, Allergies, Gastroesophageal reflux","Steam inhalation, nasal spray, antibiotics if needed."
+Sneezing,"Allergies, Common cold, Rhinitis",Consult a doctor for proper treatment.
+Itchy nose,"Allergies, Rhinitis, Sinusitis","Steam inhalation, nasal spray, antibiotics if needed."
+Nasal polyps,"Chronic sinusitis, Allergies, Cystic fibrosis","Steam inhalation, nasal spray, antibiotics if needed."
+Change in smell,"COVID-19, Sinusitis, Nasal polyps","Isolation, fluids, paracetamol, and rest."
+Loss of smell,"COVID-19, Nasal polyps, Zinc deficiency","Isolation, fluids, paracetamol, and rest."
+Frequent infections,"HIV, Diabetes, Immunodeficiency",Consult a doctor for proper treatment.
+Swollen lymph nodes,"Infection, Tuberculosis, Lymphoma",Antitubercular drugs under medical supervision.
+Unexplained weight loss,"Tuberculosis, Cancer, Hyperthyroidism",Antitubercular drugs under medical supervision.
+Unexplained weight gain,"Hypothyroidism, Cushing's syndrome, Edema",Consult a doctor for proper treatment.
+Increased appetite,"Hyperthyroidism, Diabetes, Pregnancy",Consult a doctor for proper treatment.
+Decreased appetite,"Depression, Hepatitis, Cancer",Consult a doctor for proper treatment.
+Delayed wound healing,"Diabetes, Peripheral vascular disease, Zinc deficiency",Consult a doctor for proper treatment.
+Skin discoloration,"Vitiligo, Melasma, Tinea versicolor",Consult a doctor for proper treatment.
+Easy bruising,"Platelet disorders, Vitamin C deficiency, Liver disease",Consult a doctor for proper treatment.
+Decreased exercise tolerance,"Heart failure, COPD, Anemia",Consult a doctor for proper treatment.
+Foot ulcers,"Diabetes, Peripheral vascular disease, Neuropathy",Consult a doctor for proper treatment.
+Gangrene,"Diabetes, Peripheral vascular disease, Buerger's disease",Consult a doctor for proper treatment.
+Poor night vision,"Vitamin A deficiency, Retinitis pigmentosa, Cataracts",Consult a doctor for proper treatment.
+Frequent fractures,"Osteoporosis, Vitamin D deficiency, Paget's disease",Consult a doctor for proper treatment.
+Growing pains,"Normal growth, Vitamin D deficiency, Juvenile idiopathic arthritis",Pain relief meds and physiotherapy.
+Bedwetting,"Urinary tract infection, Sleep apnea, Diabetes",Consult a doctor for proper treatment.
+Failure to thrive,"Malnutrition, Congenital heart disease, Celiac disease",Consult a doctor for proper treatment.
+Developmental delay,"Down syndrome, Autism spectrum disorder, Hypothyroidism",Consult a doctor for proper treatment.
+Abnormal gait,"Cerebral palsy, Muscular dystrophy, Vitamin B12 deficiency",Consult a doctor for proper treatment.
+Limping,"Hip dysplasia, Leg length discrepancy, Juvenile arthritis",Pain relief meds and physiotherapy.
+Toe walking,"Cerebral palsy, Autism spectrum disorder, Tight Achilles tendon",Consult a doctor for proper treatment.
+Bowlegs,"Vitamin D deficiency, Blount's disease, Normal development",Consult a doctor for proper treatment.
+Knock knees,"Normal development, Rickets, Obesity",Consult a doctor for proper treatment.
+Flat feet,"Normal variant, Obesity, Ligament laxity",Consult a doctor for proper treatment.
+High arched feet,"Charcot-Marie-Tooth disease, Cerebral palsy, Normal variant",Consult a doctor for proper treatment.
+Excessive crying in infants,"Colic, Ear infection, Gastroesophageal reflux",Consult a doctor for proper treatment.
+Recurrent fever in children,"Periodic fever syndromes, Juvenile idiopathic arthritis, Immunodeficiency",Pain relief meds and physiotherapy.
+Recurrent abdominal pain in children,"Irritable bowel syndrome, Constipation, Abdominal migraine","Painkillers, rest, avoid triggers."
+Excessive sweating in children,"Hyperthyroidism, Anxiety, Infection",Consult a doctor for proper treatment.
+Enlarged tonsils,"Chronic tonsillitis, Infectious mononucleosis, Lymphoma",Consult a doctor for proper treatment.
+Snoring,"Adenoid hypertrophy, Obesity, Sleep apnea",Consult a doctor for proper treatment.
+Mouth breathing,"Adenoid hypertrophy, Deviated nasal septum, Allergic rhinitis",Antihistamines and avoid allergens.
+Recurrent ear infections,"Adenoid hypertrophy, Eustachian tube dysfunction, Immunodeficiency",Consult a doctor for proper treatment.
+Delayed teething,"Vitamin D deficiency, Hypothyroidism, Down syndrome",Consult a doctor for proper treatment.
+Early puberty,"Precocious puberty, Congenital adrenal hyperplasia, Hormone-secreting tumors",Consult a doctor for proper treatment.
+Delayed puberty,"Constitutional delay, Hypogonadism, Chronic disease",Consult a doctor for proper treatment.
+Short stature,"Growth hormone deficiency, Hypothyroidism, Malnutrition",Consult a doctor for proper treatment.
+Tall stature,"Marfan syndrome, Gigantism, Klinefelter syndrome",Consult a doctor for proper treatment.
+Excessive thirst in children,"Diabetes, Diabetes insipidus, Psychogenic polydipsia",Consult a doctor for proper treatment.
+Frequent urination in children,"Diabetes, Urinary tract infection, Overactive bladder",Consult a doctor for proper treatment.
+Pain in the legs,"Growing pains, Vitamin D deficiency, Juvenile idiopathic arthritis",Pain relief meds and physiotherapy.
+Bow legs in children,"Vitamin D deficiency, Rickets, Blount's disease",Consult a doctor for proper treatment.
+Knock knees in children,"Rickets, Obesity, Normal variant",Consult a doctor for proper treatment.
+Refusal to walk,"Toxic synovitis, Juvenile idiopathic arthritis, Fracture",Pain relief meds and physiotherapy.
+Vision problems in children,"Refractive errors, Amblyopia, Strabismus",Consult a doctor for proper treatment.
+Head tilting,"Torticollis, Vision problems, Ear infection",Consult a doctor for proper treatment.
+Large head,"Hydrocephalus, Familial macrocephaly, Brain tumor",Consult a doctor for proper treatment.
+Small head,"Microcephaly, Malnutrition, Genetic disorders",Consult a doctor for proper treatment.
+Speech delay,"Autism spectrum disorder, Hearing loss, Intellectual disability",Consult a doctor for proper treatment.
+Hyperactivity,"ADHD, Hyperthyroidism, Lead poisoning",Consult a doctor for proper treatment.
+Inattention,"ADHD, Learning disabilities, Sleep disorders",Consult a doctor for proper treatment.
+Learning difficulties,"Learning disabilities, ADHD, Intellectual disability",Consult a doctor for proper treatment.
+Social withdrawal,"Autism spectrum disorder, Depression, Anxiety",Consult a doctor for proper treatment.
+Repetitive behaviors,"Autism spectrum disorder, OCD, Tic disorders",Consult a doctor for proper treatment.
+Temper tantrums,"Normal development, ADHD, Autism spectrum disorder",Consult a doctor for proper treatment.
+Sleep problems in children,"Sleep apnea, Anxiety, ADHD",Consult a doctor for proper treatment.
+Night terrors,"Normal variant, Stress, Sleep disorders",Consult a doctor for proper treatment.
+Sleepwalking,"Normal variant, Sleep disorders, Stress",Consult a doctor for proper treatment.
+Bedwetting,"Urinary tract infection, Sleep apnea, Diabetes",Consult a doctor for proper treatment.
+Tics,"Transient tic disorder, Tourette syndrome, OCD",Consult a doctor for proper treatment.
+Nail biting,"Anxiety, Normal habit, OCD",Consult a doctor for proper treatment.
+Thumb sucking,"Normal development, Anxiety, Dental problems",Consult a doctor for proper treatment.
+Hair pulling,"Trichotillomania, Anxiety, Stress",Consult a doctor for proper treatment.
+Breath holding spells,"Normal variant, Iron deficiency, Emotional dysregulation",Consult a doctor for proper treatment.
+Regression in development,"Autism spectrum disorder, Rett syndrome, Metabolic disorders",Consult a doctor for proper treatment.
+Facial weakness,"Bell's palsy, Stroke, Myasthenia gravis",Consult a doctor for proper treatment.
+Lockjaw,"Tetanus, Temporomandibular joint disorder, Peritonsillar abscess",Consult a doctor for proper treatment.
+Drooping eyelid,"Myasthenia gravis, Horner's syndrome, Stroke",Consult a doctor for proper treatment.
+Grinding teeth,"Bruxism, Dental malocclusion, Anxiety",Consult a doctor for proper treatment.
+Frequent cavities,"Poor dental hygiene, Diet high in sugar, Genetic factors",Consult a doctor for proper treatment.
+Teeth sensitivity,"Dental erosion, Gum recession, Cracked tooth",Consult a doctor for proper treatment.
+Loose teeth,"Periodontal disease, Trauma, Osteoporosis",Consult a doctor for proper treatment.
+Black spots on teeth,"Dental caries, Staining, Fluorosis",Consult a doctor for proper treatment.
+Tooth discoloration,"Fluorosis, Tetracycline use, Poor dental hygiene",Consult a doctor for proper treatment.
+Bad breath,"Gum disease, Poor oral hygiene, Sinusitis","Steam inhalation, nasal spray, antibiotics if needed."
+Painful gums,"Gingivitis, Dental abscess, Vitamin C deficiency",Consult a doctor for proper treatment.
+Receding gums,"Periodontal disease, Aggressive brushing, Smoking",Consult a doctor for proper treatment.
+Swollen gums,"Gingivitis, Pregnancy, Medication side effect",Consult a doctor for proper treatment.
+Sores on gums,"Canker sores, Herpes, Oral cancer",Consult a doctor for proper treatment.
+White patches in mouth,"Oral thrush, Leukoplakia, Oral lichen planus",Consult a doctor for proper treatment.
+Red patches in mouth,"Erythroplakia, Vitamin deficiency, Geographic tongue",Consult a doctor for proper treatment.
+Swollen tongue,"Allergic reaction, Vitamin deficiency, Angioedema",Antihistamines and avoid allergens.
+Geographic tongue,"Benign condition, Psoriasis, Vitamin deficiency",Consult a doctor for proper treatment.
+Hairy tongue,"Poor oral hygiene, Antibiotics, Tobacco use",Consult a doctor for proper treatment.
+Burning tongue,"Burning mouth syndrome, Vitamin B12 deficiency, Candidiasis",Consult a doctor for proper treatment.
+Dry mouth,"Sjögren's syndrome, Medication side effect, Dehydration",Consult a doctor for proper treatment.
+Excessive salivation,"Dental infection, Parkinson's disease, GERD",Consult a doctor for proper treatment.
+Difficulty opening mouth,"Tetanus, Temporomandibular joint disorder, Oral cancer",Consult a doctor for proper treatment.
+Clicking jaw,"Temporomandibular joint disorder, Arthritis, Malocclusion",Pain relief meds and physiotherapy.
+Jaw pain,"Temporomandibular joint disorder, Dental abscess, Trigeminal neuralgia",Consult a doctor for proper treatment.
+Facial swelling,"Dental abscess, Angioedema, Parotitis",Consult a doctor for proper treatment.
+Facial pain,"Sinusitis, Trigeminal neuralgia, Dental abscess","Steam inhalation, nasal spray, antibiotics if needed."
+Facial redness,"Rosacea, Lupus, Seborrheic dermatitis",Consult a doctor for proper treatment.
+Facial rash,"Rosacea, Lupus, Contact dermatitis",Consult a doctor for proper treatment.
+Nodules on face,"Acne, Rosacea, Basal cell carcinoma",Consult a doctor for proper treatment.
+Open sores on face,"Impetigo, Herpes, Skin cancer",Consult a doctor for proper treatment.
+Facial hair in women,"Polycystic ovary syndrome, Cushing's syndrome, Medication side effect",Consult a doctor for proper treatment.
+Hair loss,"Alopecia, Thyroid disorders, Iron deficiency",Consult a doctor for proper treatment.
+Hair thinning,"Androgenetic alopecia, Hypothyroidism, Iron deficiency",Consult a doctor for proper treatment.
+Brittle hair,"Hypothyroidism, Malnutrition, Cushing's syndrome",Consult a doctor for proper treatment.
+Dandruff,"Seborrheic dermatitis, Psoriasis, Fungal infection",Consult a doctor for proper treatment.
+Itchy scalp,"Seborrheic dermatitis, Head lice, Psoriasis",Consult a doctor for proper treatment.
+Scalp sores,"Psoriasis, Seborrheic dermatitis, Folliculitis",Consult a doctor for proper treatment.
+Scalp tenderness,"Tension headache, Scalp infection, Temporal arteritis",Consult a doctor for proper treatment.
+Premature graying,"Genetic factors, Vitamin B12 deficiency, Thyroid disorders",Consult a doctor for proper treatment.
+Excessive hair growth,"Polycystic ovary syndrome, Cushing's syndrome, Medication side effect",Consult a doctor for proper treatment.
+Boils,"Staphylococcal infection, Folliculitis, Hidradenitis suppurativa",Consult a doctor for proper treatment.
+Skin tags,"Normal variant, Obesity, Insulin resistance",Consult a doctor for proper treatment.
+Moles,"Normal variant, Atypical nevus, Melanoma",Consult a doctor for proper treatment.
+Freckles,"Sun exposure, Genetic factors, Xeroderma pigmentosum",Consult a doctor for proper treatment.
+Age spots,"Sun damage, Aging, Liver disease",Consult a doctor for proper treatment.
+Birthmarks,"Port wine stain, Hemangioma, Nevus",Consult a doctor for proper treatment.
+Vitiligo,"Autoimmune disorder, Genetic factors, Inflammatory conditions",Consult a doctor for proper treatment.
+Hives,"Allergic reaction, Stress, Infection",Antihistamines and avoid allergens.
+Blisters,"Burns, Friction, Pemphigus",Consult a doctor for proper treatment.
+Calluses,"Pressure, Friction, Hyperkeratosis",Consult a doctor for proper treatment.
+Corns,"Pressure, Friction, Improper footwear",Consult a doctor for proper treatment.
+Warts,"Human papillomavirus, Immune suppression, Skin trauma",Consult a doctor for proper treatment.
+Varicose veins,"Chronic venous insufficiency, Pregnancy, Prolonged standing",Consult a doctor for proper treatment.
+Spider veins,"Chronic venous insufficiency, Liver disease, Hormonal changes",Consult a doctor for proper treatment.
+Cold sores,"Herpes simplex virus, Weakened immune system, Stress",Consult a doctor for proper treatment.
+Leg cramps at night,"Dehydration, Electrolyte imbalance, Peripheral artery disease",Consult a doctor for proper treatment.
+Restless legs,"Restless legs syndrome, Iron deficiency, Kidney failure",Consult a doctor for proper treatment.
+Flank pain,"Kidney stones, Pyelonephritis, Muscle strain",Consult a doctor for proper treatment.
+Pelvic pain,"Endometriosis, Pelvic inflammatory disease, Ovarian cysts",Consult a doctor for proper treatment.
+Groin pain,"Hernia, Muscle strain, Kidney stones",Consult a doctor for proper treatment.
+Heel pain,"Plantar fasciitis, Achilles tendinitis, Heel spurs",Consult a doctor for proper treatment.
+Wrist pain,"Carpal tunnel syndrome, Tendinitis, Arthritis",Pain relief meds and physiotherapy.
+Finger pain,"Arthritis, Trigger finger, Raynaud's disease",Pain relief meds and physiotherapy.
+Toe pain,"Gout, Bunion, Ingrown toenail",Consult a doctor for proper treatment.
+Shoulder stiffness,"Frozen shoulder, Arthritis, Rotator cuff injury",Pain relief meds and physiotherapy.
+Neck stiffness,"Meningitis, Cervical spondylosis, Muscle strain",Consult a doctor for proper treatment.
+Back stiffness,"Ankylosing spondylitis, Muscle strain, Degenerative disc disease",Consult a doctor for proper treatment.
+Hip pain,"Arthritis, Bursitis, Sciatica",Pain relief meds and physiotherapy.
+Knee clicking,"Meniscus tear, Arthritis, Ligament injury",Pain relief meds and physiotherapy.
+Knee locking,"Meniscus tear, Loose body, Patellar dislocation",Consult a doctor for proper treatment.
+Knee instability,"Ligament tear (ACL/PCL), Patellar instability, Muscle weakness",Consult a doctor for proper treatment.
+Elbow pain,"Tennis elbow, Golfer's elbow, Arthritis",Pain relief meds and physiotherapy.
+Muscle twitching,"Benign fasciculation syndrome, Electrolyte imbalance, Motor neuron disease",Consult a doctor for proper treatment.
+Muscle spasms,"Dehydration, Muscle fatigue, Electrolyte imbalance",Consult a doctor for proper treatment.
+Muscle soreness after exercise,"Delayed onset muscle soreness (DOMS), Muscle strain, Rhabdomyolysis",Consult a doctor for proper treatment.
+Tingling sensation,"Peripheral neuropathy, Vitamin deficiency, Carpal tunnel syndrome",Consult a doctor for proper treatment.
+Burning sensation on skin,"Neuropathy, Shingles, Sunburn",Consult a doctor for proper treatment.
+Crawling sensation on skin,"Formication, Peripheral neuropathy, Delusional parasitosis",Consult a doctor for proper treatment.
+Loss of coordination,"Ataxia, Stroke, Multiple sclerosis",Consult a doctor for proper treatment.
+Clumsiness,"Dyspraxia, Ataxia, Vitamin B12 deficiency",Consult a doctor for proper treatment.
+Difficulty walking,"Peripheral neuropathy, Parkinson's disease, Arthritis",Pain relief meds and physiotherapy.
+Shuffling gait,"Parkinson's disease, Normal pressure hydrocephalus, Stroke",Consult a doctor for proper treatment.
+Difficulty standing up,"Muscle weakness, Orthostatic hypotension, Parkinson's disease",Consult a doctor for proper treatment.
+Difficulty reaching overhead,"Rotator cuff injury, Frozen shoulder, Arthritis",Pain relief meds and physiotherapy.
+Difficulty gripping objects,"Carpal tunnel syndrome, Arthritis, Peripheral neuropathy",Pain relief meds and physiotherapy.
+Dropping objects frequently,"Peripheral neuropathy, Carpal tunnel syndrome, Muscle weakness",Consult a doctor for proper treatment.
+Hand tremors when writing,"Essential tremor, Parkinson's disease, Anxiety",Consult a doctor for proper treatment.
+Shaky voice,"Vocal tremor, Parkinson's disease, Anxiety",Consult a doctor for proper treatment.
+Slow speech,"Parkinson's disease, Stroke, Hypothyroidism",Consult a doctor for proper treatment.
+Monotone voice,"Parkinson's disease, Depression, Autism spectrum disorder",Consult a doctor for proper treatment.
+Difficulty finding words,"Aphasia (stroke-related), Dementia, Anxiety",Consult a doctor for proper treatment.
+Feeling faint,"Vasovagal syncope, Orthostatic hypotension, Anemia",Consult a doctor for proper treatment.
+Near fainting,"Presyncope, Dehydration, Low blood sugar",Consult a doctor for proper treatment.
+Lightheadedness,"Orthostatic hypotension, Inner ear problems, Dehydration",Consult a doctor for proper treatment.
+Room spinning sensation,"Vertigo, Benign paroxysmal positional vertigo (BPPV), Meniere's disease",Consult a doctor for proper treatment.
+Unsteadiness,"Balance disorder, Peripheral neuropathy, Vision problems",Consult a doctor for proper treatment.
+Feeling detached,"Depersonalization disorder, Anxiety, PTSD",Consult a doctor for proper treatment.
+Feeling unreal,"Derealization disorder, Panic attack, Migraine aura","Painkillers, rest, avoid triggers."
+Memory lapses,"Stress, Aging, Dementia",Consult a doctor for proper treatment.
+Difficulty concentrating,"ADHD, Anxiety, Depression",Consult a doctor for proper treatment.
+Poor judgment,"Dementia, Stroke, Substance abuse",Consult a doctor for proper treatment.
+Confusion about time or place,"Dementia, Delirium, Stroke",Consult a doctor for proper treatment.
+Getting lost in familiar places,"Alzheimer's disease, Dementia, Stroke",Consult a doctor for proper treatment.
+Difficulty planning or organizing,"Dementia, ADHD, Depression",Consult a doctor for proper treatment.
+Problems with abstract thinking,"Dementia, Schizophrenia, Stroke",Consult a doctor for proper treatment.
+Mood swings,"Bipolar disorder, Hormonal changes, Premenstrual syndrome (PMS)",Consult a doctor for proper treatment.
+Irritability,"Anxiety, Depression, PMS",Consult a doctor for proper treatment.
+Agitation,"Anxiety, Dementia, Hyperthyroidism",Consult a doctor for proper treatment.
+Restlessness,"Anxiety, Restless legs syndrome, Hyperthyroidism",Consult a doctor for proper treatment.
+Feeling hopeless,"Depression, Anxiety, Chronic illness",Consult a doctor for proper treatment.
+Feeling worthless,"Depression, Low self-esteem, Trauma",Consult a doctor for proper treatment.
+Loss of interest in activities,"Depression, Anhedonia, Chronic fatigue syndrome",Consult a doctor for proper treatment.
+Social isolation,"Depression, Anxiety, Agoraphobia",Consult a doctor for proper treatment.
+Excessive worry,"Generalized anxiety disorder, Panic disorder, OCD",Consult a doctor for proper treatment.
+Panic attacks,"Panic disorder, Agoraphobia, Specific phobia",Consult a doctor for proper treatment.
+Phobias,"Specific phobia, Social anxiety disorder, Agoraphobia",Consult a doctor for proper treatment.
+Obsessive thoughts,"Obsessive-compulsive disorder (OCD), Anxiety, Depression",Consult a doctor for proper treatment.
+Compulsive behaviors,"Obsessive-compulsive disorder (OCD), Anxiety, Tic disorders",Consult a doctor for proper treatment.
+Flashbacks,"Post-traumatic stress disorder (PTSD), Acute stress disorder, Anxiety",Consult a doctor for proper treatment.
+Nightmares,"PTSD, Anxiety, Stress",Consult a doctor for proper treatment.
+Feeling emotionally numb,"PTSD, Depression, Dissociative disorder",Consult a doctor for proper treatment.
+Difficulty trusting others,"PTSD, Personality disorder, Past trauma",Consult a doctor for proper treatment.
+Hearing voices,"Schizophrenia, Bipolar disorder (mania), Severe depression",Consult a doctor for proper treatment.
+Seeing things that aren't there,"Schizophrenia, Delirium, Drug withdrawal",Consult a doctor for proper treatment.
+Paranoia,"Schizophrenia, Delusional disorder, Severe anxiety",Consult a doctor for proper treatment.
+Delusions,"Schizophrenia, Bipolar disorder, Delusional disorder",Consult a doctor for proper treatment.
+Disorganized thinking,"Schizophrenia, Bipolar disorder (mania), Stroke",Consult a doctor for proper treatment.
+Lack of motivation,"Depression, Schizophrenia (negative symptoms), Chronic fatigue syndrome",Consult a doctor for proper treatment.
+Poor hygiene,"Depression, Schizophrenia, Dementia",Consult a doctor for proper treatment.
+Impulsive behavior,"ADHD, Bipolar disorder (mania), Substance abuse",Consult a doctor for proper treatment.
+Risky behavior,"Bipolar disorder (mania), Substance abuse, Personality disorder",Consult a doctor for proper treatment.
+Substance craving,"Substance use disorder, Addiction, Withdrawal",Consult a doctor for proper treatment.
+Alcohol withdrawal symptoms,"Delirium tremens, Seizures, Anxiety",Consult a doctor for proper treatment.
+Drug withdrawal symptoms,"Varies by drug (e.g., nausea, insomnia, pain), Addiction",Consult a doctor for proper treatment.
+Increased sensitivity to cold,"Hypothyroidism, Anemia, Raynaud's disease",Consult a doctor for proper treatment.
+Increased sensitivity to heat,"Hyperthyroidism, Multiple sclerosis, Anxiety",Consult a doctor for proper treatment.
+Heat intolerance,"Hyperthyroidism, Graves' disease, Menopause",Consult a doctor for proper treatment.
+Cold intolerance,"Hypothyroidism, Raynaud's disease, Anemia",Consult a doctor for proper treatment.
+Excessive thirst despite drinking,"Diabetes mellitus, Diabetes insipidus, Kidney disease",Consult a doctor for proper treatment.
+Frequent urination at night (Nocturia),"Diabetes, Prostate enlargement, Heart failure",Consult a doctor for proper treatment.
+Urinary incontinence,"Overactive bladder, Stress incontinence, Urinary tract infection",Consult a doctor for proper treatment.
+Urgency to urinate,"Overactive bladder, Urinary tract infection, Interstitial cystitis",Consult a doctor for proper treatment.
+Leaking urine when coughing/sneezing,"Stress incontinence, Weak pelvic floor muscles, Obesity",Consult a doctor for proper treatment.
+Difficulty starting urination,"Prostate enlargement (BPH), Urethral stricture, Neurogenic bladder",Consult a doctor for proper treatment.
+Weak urine stream,"Prostate enlargement (BPH), Urethral stricture, Bladder muscle weakness",Consult a doctor for proper treatment.
+Dribbling after urination,"Prostate enlargement (BPH), Urethral stricture, Overflow incontinence",Consult a doctor for proper treatment.
+Feeling of incomplete bladder emptying,"Prostate enlargement (BPH), Urinary retention, Neurogenic bladder",Consult a doctor for proper treatment.
+Cloudy urine,"Urinary tract infection, Kidney stones, Dehydration",Consult a doctor for proper treatment.
+Foul-smelling urine,"Urinary tract infection, Dehydration, Certain foods/medications",Consult a doctor for proper treatment.
+Pink or cola-colored urine,"Hematuria (blood in urine), Kidney stones, Urinary tract infection",Consult a doctor for proper treatment.
+Pain during intercourse (Dyspareunia),"Vaginitis, Endometriosis, Pelvic inflammatory disease",Consult a doctor for proper treatment.
+Vaginal dryness,"Menopause, Sjögren's syndrome, Medication side effect",Consult a doctor for proper treatment.
+Vaginal itching,"Yeast infection, Bacterial vaginosis, Sexually transmitted infection",Consult a doctor for proper treatment.
+Abnormal vaginal odor,"Bacterial vaginosis, Trichomoniasis, Poor hygiene",Consult a doctor for proper treatment.
+Painful periods (Dysmenorrhea),"Endometriosis, Uterine fibroids, Adenomyosis",Consult a doctor for proper treatment.
+Heavy menstrual bleeding,"Uterine fibroids, Adenomyosis, Bleeding disorders",Consult a doctor for proper treatment.
+Irregular periods,"Polycystic ovary syndrome (PCOS), Thyroid disorders, Stress",Consult a doctor for proper treatment.
+Bleeding between periods,"Hormonal imbalance, Uterine polyps, Cervical issues",Consult a doctor for proper treatment.
+Bleeding after menopause,"Endometrial cancer, Vaginal atrophy, Uterine polyps",Consult a doctor for proper treatment.
+Breast pain,"Fibrocystic changes, Mastitis, Menstrual cycle changes",Consult a doctor for proper treatment.
+Nipple discharge,"Prolactinoma, Duct ectasia, Breast cancer",Consult a doctor for proper treatment.
+Inverted nipple (new onset),"Breast cancer, Duct ectasia, Infection",Consult a doctor for proper treatment.
+Skin changes on breast (dimpling redness),"Inflammatory breast cancer, Mastitis, Fat necrosis",Consult a doctor for proper treatment.
+Lump in testicle,"Testicular cancer, Epididymal cyst, Hydrocele",Consult a doctor for proper treatment.
+Pain in testicle,"Testicular torsion, Epididymitis, Orchitis",Consult a doctor for proper treatment.
+Swelling in scrotum,"Hydrocele, Varicocele, Testicular cancer",Consult a doctor for proper treatment.
+Difficulty achieving erection,"Erectile dysfunction, Diabetes, Cardiovascular disease",Consult a doctor for proper treatment.
+Difficulty maintaining erection,"Erectile dysfunction, Anxiety, Vascular problems",Consult a doctor for proper treatment.
+Decreased libido,"Low testosterone, Depression, Medication side effect",Consult a doctor for proper treatment.
+Painful ejaculation,"Prostatitis, Seminal vesiculitis, Sexually transmitted infection",Consult a doctor for proper treatment.
+Blood in semen,"Prostatitis, Infection, Trauma",Consult a doctor for proper treatment.
+Penile discharge,"Urethritis (Gonorrhea, Chlamydia), Balanitis",Consult a doctor for proper treatment.
+Sores on genitals,"Herpes simplex virus, Syphilis, Chancroid",Consult a doctor for proper treatment.
+Warts on genitals,Human papillomavirus (HPV),Consult a doctor for proper treatment.
+Itching in genital area,"Fungal infection (jock itch), Scabies, Pubic lice",Consult a doctor for proper treatment.
+Rectal discharge,"Proctitis, Sexually transmitted infection, Anal fistula",Consult a doctor for proper treatment.
+Feeling of pressure in rectum,"Hemorrhoids, Constipation, Rectal prolapse",Consult a doctor for proper treatment.
+Difficulty controlling bowel movements,"Fecal incontinence, Nerve damage, Diarrhea",Consult a doctor for proper treatment.
+Greasy stools,"Malabsorption, Pancreatitis, Celiac disease",Consult a doctor for proper treatment.
+Pale stools,"Bile duct obstruction, Liver disease, Pancreatitis",Consult a doctor for proper treatment.
+Bright red blood in stool,"Lower gastrointestinal bleeding (hemorrhoids, diverticulosis, colitis)",Consult a doctor for proper treatment.
+Mucus in stool,"Irritable bowel syndrome (IBS), Ulcerative colitis, Infection",Consult a doctor for proper treatment.
+Alternating constipation and diarrhea,"Irritable bowel syndrome (IBS), Inflammatory bowel disease (IBD)",Consult a doctor for proper treatment.
+Feeling of incomplete bowel movement,"Constipation, Irritable bowel syndrome (IBS), Rectal prolapse",Consult a doctor for proper treatment.
+Straining during bowel movements,"Constipation, Hemorrhoids, Anal fissure",Consult a doctor for proper treatment.
+Loss of bowel control,"Fecal incontinence, Diarrhea, Nerve damage",Consult a doctor for proper treatment.
+Increased abdominal girth,"Ascites (fluid accumulation), Obesity, Tumor",Consult a doctor for proper treatment.
+Visible veins on abdomen,"Liver cirrhosis (caput medusae), Portal hypertension",BP medication and lifestyle changes.
+Abdominal rigidity,"Peritonitis, Appendicitis, Bowel perforation",Consult a doctor for proper treatment.
+Rebound tenderness in abdomen,"Peritonitis, Appendicitis",Consult a doctor for proper treatment.
+Abdominal guarding,"Appendicitis, Peritonitis, Cholecystitis",Consult a doctor for proper treatment.
+Loss of appetite for specific foods,"Pregnancy cravings/aversions, Food intolerance, Psychological factors",Consult a doctor for proper treatment.
+Craving non-food items (Pica),"Iron deficiency anemia, Malnutrition, Pregnancy",Consult a doctor for proper treatment.
+Metallic taste in mouth,"Medication side effect, Pregnancy, Gum disease",Consult a doctor for proper treatment.
+Sour taste in mouth,"Gastroesophageal reflux disease (GERD), Gastritis",Consult a doctor for proper treatment.
+Bitter taste in mouth,"Acid reflux, Liver or gallbladder problems, Medication side effect",Consult a doctor for proper treatment.
+Food aversion,"Eating disorder, Pregnancy, Chemotherapy side effect",Consult a doctor for proper treatment.
+Feeling full quickly (Early satiety),"Gastroparesis, Stomach ulcer, Stomach cancer",Consult a doctor for proper treatment.
+Pain after eating,"Gastritis, Peptic ulcer, Gallstones",Consult a doctor for proper treatment.
+Bloating after eating,"Irritable bowel syndrome (IBS), Food intolerance, Gastroparesis",Consult a doctor for proper treatment.
+Indigestion,"Gastroesophageal reflux disease (GERD), Peptic ulcer, Gastritis",Consult a doctor for proper treatment.
+Heartburn,"Gastroesophageal reflux disease (GERD), Hiatal hernia, Pregnancy",Consult a doctor for proper treatment.
+Regurgitation of food or sour liquid,"Gastroesophageal reflux disease (GERD), Achalasia",Consult a doctor for proper treatment.
+Water brash (excess saliva with reflux),Gastroesophageal reflux disease (GERD),Consult a doctor for proper treatment.
+Difficulty swallowing solids,"Esophageal stricture, Esophageal cancer, Achalasia",Consult a doctor for proper treatment.
+Difficulty swallowing liquids,"Achalasia, Stroke, Neurological disorders",Consult a doctor for proper treatment.
+Painful swallowing (Odynophagia),"Esophagitis, Oral thrush, Throat infection",Consult a doctor for proper treatment.
+Feeling of food stuck in throat,"Esophageal stricture, Globus sensation, GERD",Consult a doctor for proper treatment.
+Chest pressure,"Angina, Heart attack, GERD",Consult a doctor for proper treatment.
+Chest tightness,"Asthma, Anxiety attack, Angina",Consult a doctor for proper treatment.
+Sharp chest pain,"Pleurisy, Pericarditis, Muscle strain",Consult a doctor for proper treatment.
+Burning sensation in chest,"Heartburn (GERD), Angina, Esophagitis",Consult a doctor for proper treatment.
+Pain radiating to arm/jaw/back,"Heart attack, Angina",Consult a doctor for proper treatment.
+Shortness of breath with exertion,"Heart failure, COPD, Anemia",Consult a doctor for proper treatment.
+Shortness of breath at rest,"Pulmonary embolism, Pneumonia, Severe heart failure",Consult a doctor for proper treatment.
+Shortness of breath when lying flat (Orthopnea),"Heart failure, Severe COPD, Obesity",Consult a doctor for proper treatment.
+Waking up breathless (Paroxysmal nocturnal dyspnea),"Heart failure, Sleep apnea",Consult a doctor for proper treatment.
+Rapid breathing (Tachypnea),"Pneumonia, Asthma attack, Anxiety",Consult a doctor for proper treatment.
+Shallow breathing,"Pain, Anxiety, Respiratory muscle weakness",Consult a doctor for proper treatment.
+Blue lips or fingernails (Cyanosis),"Hypoxia (low oxygen), Heart failure, Severe lung disease",Consult a doctor for proper treatment.
+Clubbing of fingers/toes,"Chronic lung disease, Congenital heart disease, Lung cancer",Consult a doctor for proper treatment.
+Coughing up blood (Hemoptysis),"Tuberculosis, Lung cancer, Bronchiectasis",Antitubercular drugs under medical supervision.
+Coughing up thick phlegm,"Bronchitis, Pneumonia, Cystic fibrosis","Cough syrup, steam inhalation, rest."
+Coughing up yellow/green phlegm,"Bacterial infection (bronchitis, pneumonia)","Cough syrup, steam inhalation, rest."
+Barking cough,"Croup, Laryngitis",Consult a doctor for proper treatment.
+Whooping cough sound,Pertussis,Consult a doctor for proper treatment.
+Chronic cough (more than 8 weeks),"Asthma, COPD, Postnasal drip",Consult a doctor for proper treatment.
+Voice change,"Laryngitis, Vocal cord nodules, Thyroid problems",Consult a doctor for proper treatment.
+Loss of voice,"Laryngitis, Vocal cord paralysis, Overuse",Consult a doctor for proper treatment.
+Pain when speaking,"Laryngitis, Vocal cord strain",Consult a doctor for proper treatment.
+Ear fullness,"Eustachian tube dysfunction, Earwax impaction, Meniere's disease",Consult a doctor for proper treatment.
+Ear discharge,"Ear infection (otitis media/externa), Ruptured eardrum",Consult a doctor for proper treatment.
+Ringing in one ear,"Tinnitus, Acoustic neuroma, Meniere's disease",Consult a doctor for proper treatment.
+Pulsating sound in ear,"Pulsatile tinnitus, Vascular abnormality, High blood pressure",Consult a doctor for proper treatment.
+Hearing voices when alone,"Auditory hallucinations (Schizophrenia, psychosis)",Consult a doctor for proper treatment.
+Muffled hearing,"Earwax impaction, Otitis media, Eustachian tube dysfunction",Consult a doctor for proper treatment.
+Sudden hearing loss,"Sensorineural hearing loss, Viral infection, Stroke",Consult a doctor for proper treatment.
+Gradual hearing loss,"Age-related hearing loss, Noise exposure, Otosclerosis",Consult a doctor for proper treatment.
+Pain behind the ear,"Mastoiditis, Otitis media, Shingles",Consult a doctor for proper treatment.
+Itchy ear canal,"Otitis externa (swimmer's ear), Eczema, Fungal infection",Consult a doctor for proper treatment.
+Eye redness,"Conjunctivitis (pink eye), Dry eye, Uveitis",Consult a doctor for proper treatment.
+Eye discharge (pus or watery),"Conjunctivitis, Blocked tear duct, Corneal ulcer",Consult a doctor for proper treatment.
+Gritty sensation in eye,"Dry eye syndrome, Foreign body, Blepharitis",Consult a doctor for proper treatment.
+Crusting of eyelids upon waking,"Blepharitis, Conjunctivitis",Consult a doctor for proper treatment.
+Stye (painful lump on eyelid),Infected eyelash follicle,Consult a doctor for proper treatment.
+Chalazion (painless lump on eyelid),Blocked oil gland,Consult a doctor for proper treatment.
+Droopy eyelid (Ptosis),"Myasthenia gravis, Nerve damage, Aging",Consult a doctor for proper treatment.
+Eyelid twitching,"Stress, Fatigue, Caffeine",Consult a doctor for proper treatment.
+Inability to close eye completely,"Bell's palsy, Stroke, Facial nerve injury",Consult a doctor for proper treatment.
+Seeing floaters,"Posterior vitreous detachment, Retinal tear, Uveitis",Consult a doctor for proper treatment.
+Seeing flashes of light,"Retinal tear or detachment, Migraine aura","Painkillers, rest, avoid triggers."
+Curtain or veil over vision,Retinal detachment,Consult a doctor for proper treatment.
+Tunnel vision,"Glaucoma, Retinitis pigmentosa, Stroke",Consult a doctor for proper treatment.
+Blind spots in vision,"Macular degeneration, Glaucoma, Optic neuritis",Consult a doctor for proper treatment.
+Distorted vision (straight lines appear wavy),"Macular degeneration, Diabetic retinopathy",Consult a doctor for proper treatment.
+Difficulty seeing at night,"Night blindness (Vitamin A def.), Cataracts, Retinitis pigmentosa",Consult a doctor for proper treatment.
+Halos around lights,"Cataracts, Glaucoma, Corneal edema",Consult a doctor for proper treatment.
+Need for brighter light when reading,"Presbyopia (age-related farsightedness), Cataracts",Consult a doctor for proper treatment.
+Frequent changes in eyeglass prescription,"Diabetes, Cataracts, Keratoconus",Consult a doctor for proper treatment.
+Crossed eyes (Strabismus),"Muscle imbalance, Nerve problems, Refractive error",Consult a doctor for proper treatment.
+Lazy eye (Amblyopia),"Strabismus, Unequal refractive error, Cataract in childhood",Consult a doctor for proper treatment.
+Skin sensitivity to touch,"Neuropathy, Fibromyalgia, Sunburn",Consult a doctor for proper treatment.
+Skin thickening,"Scleroderma, Lymphedema, Chronic eczema",Consult a doctor for proper treatment.
+Skin thinning,"Aging, Long-term steroid use, Cushing's syndrome",Consult a doctor for proper treatment.
+Stretch marks (Striae),"Rapid weight gain/loss, Pregnancy, Cushing's syndrome",Consult a doctor for proper treatment.
+Purple spots on skin (Purpura),"Vasculitis, Bleeding disorders, Medication reaction",Consult a doctor for proper treatment.
+Pinpoint red spots on skin (Petechiae),"Thrombocytopenia, Infection (meningitis, sepsis), Leukemia",Consult a doctor for proper treatment.
+Yellow bumps on skin (Xanthomas),"High cholesterol, Diabetes",Consult a doctor for proper treatment.
+Pearly or waxy bump on skin,"Basal cell carcinoma, Sebaceous hyperplasia",Consult a doctor for proper treatment.
+Firm red nodule on skin,"Squamous cell carcinoma, Keratoacanthoma",Consult a doctor for proper treatment.
+Sore that does not heal,"Skin cancer (basal cell, squamous cell), Chronic infection",Consult a doctor for proper treatment.
+Loss of pigment in patches (Vitiligo),Autoimmune condition,Consult a doctor for proper treatment.
+Darkening of skin creases,"Addison's disease, Acanthosis nigricans (insulin resistance)",Consult a doctor for proper treatment.
+Bronze skin,"Hemochromatosis, Addison's disease",Consult a doctor for proper treatment.
+Butterfly rash across face,Systemic lupus erythematosus (SLE),Consult a doctor for proper treatment.
+Raynaud's phenomenon (fingers change color in cold),"Raynaud's disease, Scleroderma, Lupus",Consult a doctor for proper treatment.
+Joint deformities,"Rheumatoid arthritis, Osteoarthritis",Pain relief meds and physiotherapy.
+Reduced range of motion in joints,"Arthritis, Injury, Frozen shoulder",Pain relief meds and physiotherapy.
+Bone pain,"Osteoporosis (fracture), Bone cancer, Paget's disease",Consult a doctor for proper treatment.
+Curvature of the spine,"Scoliosis, Kyphosis, Osteoporosis",Consult a doctor for proper treatment.
+Loss of height,"Osteoporosis (vertebral fractures), Degenerative disc disease",Consult a doctor for proper treatment.
+Feeling cold all the time,"Hypothyroidism, Anemia, Poor circulation",Consult a doctor for proper treatment.
+Feeling hot all the time,"Hyperthyroidism, Menopause, Anxiety",Consult a doctor for proper treatment.
+Pounding heart,"Palpitations, Anxiety, Arrhythmia",Consult a doctor for proper treatment.
+Skipped heartbeats,"Premature atrial/ventricular contractions (PACs/PVCs), Anxiety",Consult a doctor for proper treatment.
+Rapid heartbeat (Tachycardia),"Anxiety, Arrhythmia (SVT, Afib), Hyperthyroidism",Consult a doctor for proper treatment.
+Slow heartbeat (Bradycardia),"Heart block, Sick sinus syndrome, Medications",Consult a doctor for proper treatment.
+Swelling in legs and ankles,"Heart failure, Kidney disease, Venous insufficiency",Consult a doctor for proper treatment.
+Swelling in abdomen (Ascites),"Liver cirrhosis, Heart failure, Kidney disease",Consult a doctor for proper treatment.
+Prominent neck veins,"Heart failure, Superior vena cava obstruction",Consult a doctor for proper treatment.
+Calf pain when walking (Claudication),Peripheral artery disease,Consult a doctor for proper treatment.
+Sores on feet or legs that heal slowly,"Peripheral artery disease, Diabetes",Consult a doctor for proper treatment.
+One leg swollen and painful,"Deep vein thrombosis (DVT), Cellulitis",Consult a doctor for proper treatment.
+Headache worse in the morning,"Brain tumor, Sleep apnea, High blood pressure",Consult a doctor for proper treatment.
+Headache with fever and stiff neck,Meningitis,Consult a doctor for proper treatment.
+Headache after head injury,"Concussion, Subdural hematoma",Consult a doctor for proper treatment.
+Band-like pressure around head,Tension headache,Consult a doctor for proper treatment.
+Severe pain around one eye,Cluster headache,Consult a doctor for proper treatment.
+Tenderness of scalp,"Temporal arteritis, Tension headache",Consult a doctor for proper treatment.
+General malaise (feeling unwell),"Viral infection, Chronic fatigue syndrome, Anemia",Consult a doctor for proper treatment.
+Chills,"Fever, Infection, Hypothermia",Consult a doctor for proper treatment.
+Fever that comes and goes,"Malaria, Tuberculosis, Lymphoma",Antimalarial drugs; rest and hydration.
+High fever (above 103F or 39.4C),"Severe infection (sepsis, pneumonia), Heat stroke",Consult a doctor for proper treatment.
+Low body temperature (Hypothermia),"Exposure to cold, Hypothyroidism, Sepsis (in elderly/infants)",Consult a doctor for proper treatment.
+Poor wound healing,"Diabetes, Poor circulation, Malnutrition",Consult a doctor for proper treatment.
+Recurrent infections,"Immunodeficiency, Diabetes, Chronic steroid use",Consult a doctor for proper treatment.
+Slow growth in children,"Growth hormone deficiency, Malnutrition, Hypothyroidism",Consult a doctor for proper treatment.
+Delayed milestones in children,"Developmental delay, Autism spectrum disorder, Cerebral palsy",Consult a doctor for proper treatment.
+Learning disability,"Specific learning disorder (dyslexia, dyscalculia), ADHD",Consult a doctor for proper treatment.
+Behavioral problems in children,"ADHD, Oppositional defiant disorder, Conduct disorder",Consult a doctor for proper treatment.
+Bedwetting (Enuresis) beyond age 5,"Delayed bladder control, Urinary tract infection, Sleep apnea",Consult a doctor for proper treatment.
