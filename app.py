@@ -4,13 +4,13 @@ import asyncio
 import threading
 import random
 import time
-from utils.db import init_db, get_diagnosis, all_symptoms
-from utils.reminder import schedule_reminder_at
-from utils.translator import translate_text, language_code_map
-import edge_tts
-import nest_asyncio
 import base64
 import pandas as pd
+import nest_asyncio
+import edge_tts
+
+# ------------------ Fixed imports ------------------
+from utils import db, reminder, translator
 
 # ------------------ Fix asyncio for Streamlit ------------------
 nest_asyncio.apply()
@@ -34,7 +34,7 @@ def predict_intent(text):
         return "greeting"
     if any(word in text for word in ["bye", "goodbye", "see you", "take care"]):
         return "goodbye"
-    if any(symptom.lower() in text for symptom in all_symptoms):
+    if any(symptom.lower() in text for symptom in db.all_symptoms):
         return "symptom"
     return "unknown"
 
@@ -43,7 +43,7 @@ def process_text(text):
 
 # ------------------ Initialization ------------------
 if "db_initialized" not in st.session_state:
-    init_db()
+    db.init_db()
     st.session_state.db_initialized = True
 
 if "user_input" not in st.session_state:
@@ -64,8 +64,8 @@ chat_container = st.container()
 # ------------------ Bot Language Selector ------------------
 st.selectbox(
     "🌐 Select bot response language",
-    list(language_code_map.keys()),
-    index=list(language_code_map.keys()).index(st.session_state.selected_language),
+    list(translator.language_code_map.keys()),
+    index=list(translator.language_code_map.keys()).index(st.session_state.selected_language),
     key="selected_language"
 )
 
@@ -126,7 +126,7 @@ def process_input(user_input):
     bot_lines = []
 
     if intent == "symptom":
-        diagnosis_list, treatment_list = get_diagnosis(user_input, top_n=10)
+        diagnosis_list, treatment_list = db.get_diagnosis(user_input, top_n=10)
         if diagnosis_list:
             st.session_state.conversation.append({"role": "bot", "message": "🧾 Possible Diagnoses:"})
 
@@ -147,10 +147,10 @@ def process_input(user_input):
     else:
         bot_lines.append(responses.get(intent, ["Sorry, I didn’t understand that."])[0])
 
-    target_lang_code = language_code_map.get(st.session_state.selected_language, "en")
+    target_lang_code = translator.language_code_map.get(st.session_state.selected_language, "en")
     translated_lines = []
     for line in bot_lines:
-        translated_line = translate_text(line, target_lang_code)
+        translated_line = translator.translate_text(line, target_lang_code)
         translated_lines.append(translated_line)
         st.session_state.conversation.append({"role": "bot", "message": translated_line})
 
@@ -190,7 +190,7 @@ with col2:
 if st.button("Set Reminder"):
     if reminder_time.strip():
         try:
-            schedule_reminder_at(reminder_time, reminder_message, sound_file="alarm.mp3")
+            reminder.schedule_reminder_at(reminder_time, reminder_message, sound_file="alarm.mp3")
             st.success(f"✅ Reminder set at {reminder_time}")
         except Exception as e:
             st.error(f"❌ Failed to set reminder: {e}")
